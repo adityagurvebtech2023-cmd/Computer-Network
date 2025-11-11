@@ -4,7 +4,7 @@
 A collection of practical lab assignments for the “Computer Networks” course.
 
 ## 🧑‍💻 Author  
-**Shreyali Dongre**  
+**Aditya Gurve**  
 B.Tech (CSE Honours), Data Science
 
 Each folder (“practical_1”, “practical_2”, …) corresponds to a lab exercise in the Computer Networks course.
@@ -79,7 +79,7 @@ This repository is provided for educational purposes. Feel free to use, modify a
 
 **Thank you for visiting!**
 Happy coding and happy networking!
-— Shreyali Dongre
+— Aditya Gurve
 
 ```
 
